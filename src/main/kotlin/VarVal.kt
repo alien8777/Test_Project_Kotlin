@@ -11,5 +11,11 @@ fun main() {
     // ** In Case of Var we can assign / reassign
 
     print(toast)
-    print(message)
+    println(message)
+
+    // explicitly defining data type in kotlin
+
+    var name : String = "Otis"
+
+    println(name)
 }
